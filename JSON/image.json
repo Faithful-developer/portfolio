@@ -1,0 +1,41 @@
+{
+    "images": [
+      {
+        "url": "images/01.jpg",
+        "caption": "Image 1"
+      },
+      {
+        "url": "../images/02.jpg",
+        "caption": "Image 2"
+      },
+      {
+        "url": "images/03.jpg",
+        "caption": "Image 4"
+      },
+      {
+        "url": "images/04.jpg",
+        "caption": "Image 4"
+      },
+      {
+        "url": "images/05.jpg",
+        "caption": "Image 5"
+      },
+      {
+        "url": "images/06.jpg",
+        "caption": "Image 6"
+      },
+      {
+        "url": "images/07.jpg",
+        "caption": "Image 7"
+      },
+      {
+        "url": "images/08.jpg",
+        "caption": "Image 8"
+      },
+      {
+        "url": "images/09.jpg",
+        "caption": "Image 9"
+      }
+    ]
+  }
+  
